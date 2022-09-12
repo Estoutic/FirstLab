@@ -12,7 +12,7 @@ void checkArea(){
 
     double a,b,c;
 
-    printf("Please enter frist side value \n");
+    printf("Please enter first side value \n");
     scanf("%lf",&a);
     
     printf("Please enter second side value \n");
